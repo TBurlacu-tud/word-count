@@ -3,8 +3,8 @@
 Exercises (documentation lesson)
 ================================
 
-Before you start
-----------------
+Before you start and after?
+---------------------------
 
 - Discuss the exercise idea with the classroom.
 - Distribute exercises among groups of 2-3 persons.
